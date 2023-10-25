@@ -28,4 +28,4 @@ This project I use:
 
 ## 💻 Project
 
-it's a responsive web site with sematic tags and animation
+it's a responsive web site with semantic tags and animation
